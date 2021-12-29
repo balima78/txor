@@ -1,0 +1,288 @@
+head:
+  title: "TxOR"
+
+# showcase
+showcase:
+  enable: true
+  title: "Transplants' Open Registry (TxOR)"
+  subtitle: ""
+  description: <p>Transplants' Open Registry (TxOR) is a private initiative intended to provide high-quality information about kidney transplantation and based solely on open source resources.</p>
+  image:
+    x: "img/showcase/giphy.gif"
+    _2x: "img/showcase/giphy.gif"
+  imageMobile:
+    x: "img/showcase/giphy.gif"
+    _2x: "img/showcase/giphy.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "e-mail"
+    URL: "mailto:bioestatisticas@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/oficinadebioestatistica/"
+
+    - icon: "github"
+      URL: "https://github.com/balima78"
+
+    # - icon: "RG"
+    #   URL: "https://twitter.com"
+    # 
+    # - icon: "dribbble"
+    #   URL: "https://dribbble.com"
+    # 
+    # - icon: "behance"
+    #   URL: "https://www.behance.net"
+    # 
+    # - icon: "youtube"
+    #   URL: "https://www.youtube.com"
+    # 
+    # - icon: "instagram"
+    #   URL: "https://www.instagram.com"
+    # 
+    # - icon: "facebook"
+    #   URL: "https://www.facebook.com"
+    # 
+    # - icon: "codepen"
+    #   URL: "#"
+    # 
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "About"
+  content: 
+    <p class="lead">
+    Collecting open data on transplantation (patients and donors) and make it available, 
+    in a transparent and accessible way, to all it may concern. 
+    </p>
+    <p class="lead">
+    Carry out statistical and epidemiological analyzes with open data on transplantation to generate 
+    knowledge. 
+    </p>
+    <p class="lead">
+    Defining organ allocation algorithms that guarantee equity of access to a scarce resource as organs for transplantation. 
+    </p>
+    <p class="lead">
+    Providing accurate, clear and transparent information on transplantation activities in Portugal. 
+    </p>
+    <p class="lead">
+    Enabling decision-making based on evidence of data. 
+    </p>
+  button:
+    icon: "icon-arrow-right"
+    btnText: "Publications"
+    URL: "https://bioestatisticas.wixsite.com/bioestatisticas/publicacoes"
+  image:
+    x: "img/who-am-i/od2.jpg"
+    _2x: "img/who-am-i/od2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Disclaimer"
+  description: "All applications presented here are intended for research purposes only, not for clinical or commercial use. TxOR is a non-profit service to the scientific community, provided on an 'AS-IS' basis without any warranty, expressed or implied. The authors can not be held liable in any way for the service provided here."
+  button:
+    icon: ""
+    btnText: ""
+    URL: "https://transplants-open.netlify.app/about.html"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "/cv/resume-matt.pdf"
+  # items:
+  #   - title: "Director of Product Engineering & Market Development"
+  #     company: "Bonney Forge"
+  #     duration: "Jan 2017 - Aug 2018"
+  # 
+  #   - title: "Manager of Sales Engineering"
+  #     company: "Bonney Forge"
+  #     duration: "Mar 2014 - Jan 2017"
+  # 
+  #   - title: "Manager of Product Engineering"
+  #     company: "Bonney Forge"
+  #     duration: "Nov 2011 - Mar 2014"
+
+# education
+education:
+  enable: true
+  title: "Awards"
+  items:
+    - university: "Bolsa de Investigação A. Morais Sarmento"
+      year: "2020"
+      degree: "Sociedade Portuguesa de Transplantação"
+
+    - university: "Prémio à publicação científica"
+      year: "2020"
+      degree: "Sociedade Portuguesa de Transplantação"
+      
+    - university: "Prémio à publicação científica"
+      year: "2019"
+      degree: "Sociedade Portuguesa de Transplantação"
+      
+    - university: "Prémio à publicação científica"
+      year: "2018"
+      degree: "Sociedade Portuguesa de Transplantação"
+      
+    - university: "Prémio à publicação científica"
+      year: "2014"
+      degree: "Sociedade Portuguesa de Transplantação"
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Kidney Allocation Rules Simulator (KARS)"
+      description: "The Kidney Allocation Rules Simulator (KARS) is an application that allows to simulate different kidney allocation rules in transplantation. Before implementing new rules, it is necessary to test them in order to dissipate, as much as possible, doubts questioning implementation’s success. The development of this application had as motivation being an aid to clarify the usefulness and efficiency of new set of rules for kidney allocation."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://balima.shinyapps.io/kars/"
+      image:  
+        x: "img/works/kars.jpg"
+        _2x: "img/works/kars.jpg"
+      is_even: true
+
+    - title: "Score Tx"
+      description: "Deceased donors’ kidneys for transplantation are a scarce good, so their use should be made in order to guarantee a good outcome as far as possible. Score Tx compile risk scores that can predict the outcome inherent to the donor-recipient pair in transplantation allowing better decision making in the allocation of organs and in patients’ clinical management."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://balima.shinyapps.io/scoreTx/"
+      image:
+        x: "img/works/scoretx.jpg"
+        _2x: "img/works/scoretx.jpg"
+      is_even: false
+      
+    - title: "Calculated panel reactive antibodies (CPRA)"
+      description: "CPRA is a sensitization measure used to classify and prioritize transplant candidates in different kidney transplant allocation systems. CPRA is based on identification of HLA unacceptable on potential organ donors making a transplant candidate ineligible for transplantation. Portuguese cPRA calculator is an online estimator based on HLA allelic and haplotypic frequencies from Portuguese donors."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://bioestatisticas.wixsite.com/bioestatisticas/cpra"
+      image:
+        x: "img/works/cpra.jpg"
+        _2x: "img/works/cpra.jpg"
+      is_even: true
+      
+    - title: "Renal transplant activity in Portugal"
+      description: "Renal transplant activity in Portugal is a shiny application to report annual renal transplantation activity in Portugal."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://bioestatisticas.shinyapps.io/apptxpt/"
+      image:
+        x: "img/works/TxRenal.jpg"
+        _2x: "img/works/TxRenal.jpg"
+      is_even: false
+
+    - title: "Renal transplantation - Portugal within the EU28"
+      description: "Renal transplantation - Portugal within the EU28 is a shiny application to compare Portugal with other countries from EU28 regarding annual renal transplantation activity ."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://bioestatisticas.shinyapps.io/appue28/"
+      image:
+        x: "img/works/PTwithinEU.jpg"
+        _2x: "img/works/PTwithinEU.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Me"
+    
+  image:
+    x: "img/who-am-i/ob.jpg"
+    _2x: "img/who-am-i/ob.jpg"  
+    # x: "img/who-am-i/user-picture-2.jpg"
+    # _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:bioestatisticas@gmail.com'
+    
+  # phone:
+  #   title: "Phone Number"
+  #   number: "--"
+  email:
+    title: "Email"
+    email: '<a href="mailto:bioestatisticas@gmail.com">bioestatisticas@gmail.com</a>'
+  address:
+    title: "Address"
+    address: '<a href="https://bioestatisticas.wixsite.com/bioestatisticas">Oficina de Bioestatistica</a>'
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

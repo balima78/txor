@@ -1,6 +1,6 @@
-MIT License
+# MIT License
 
-Copyright (c) 2021 Bruno Lima
+Copyright (c) 2021 raditian_free_hugo_theme_data_science authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
