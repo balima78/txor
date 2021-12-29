@@ -111,25 +111,25 @@ education:
   enable: true
   title: "Awards"
   items:
-    - university: "Bolsa de Investigação A. Morais Sarmento"
+    - university: "Bolsa de Investigação A. Morais Sarmento - Sociedade Portuguesa de Transplantação"
       year: "2020"
-      degree: "Sociedade Portuguesa de Transplantação"
+      degree: "Kidney Allocation Rules Simulator (KARS)"
 
-    - university: "Prémio à publicação científica"
+    - university: "Prémio à publicação científica - Sociedade Portuguesa de Transplantação"
       year: "2020"
-      degree: "Sociedade Portuguesa de Transplantação"
+      degree: "Access to kidney transplantation: a bioethical perspective. Bruno A Lima, Helena Alves. Port J Nephrol Hypert 2020; 34(1): 107-109"
       
-    - university: "Prémio à publicação científica"
+    - university: "Prémio à publicação científica - Sociedade Portuguesa de Transplantação"
       year: "2019"
-      degree: "Sociedade Portuguesa de Transplantação"
+      degree: "Portuguese calculated panel reactive antibodies online estimator. Lima BA, Alves H. HLA. 2019; 93(6):445-450"
       
-    - university: "Prémio à publicação científica"
+    - university: "Prémio à publicação científica - Sociedade Portuguesa de Transplantação"
       year: "2018"
-      degree: "Sociedade Portuguesa de Transplantação"
+      degree: "Seleção do Par Dador-Recetor em Transplante Renal: Resultados Comparativos de uma Simulação. Bruno A Lima, Helena Alves. Acta Med Port 30(12), 2017: 854-860"
       
-    - university: "Prémio à publicação científica"
-      year: "2014"
-      degree: "Sociedade Portuguesa de Transplantação"
+    - university: "Prémio à publicação científica - Sociedade Portuguesa de Transplantação"
+      year: "2010"
+      degree: "The Portuguese match algorithm in the kidney paired donation program. Bruno A. Lima, Leonídio Dias, António C. Henriques, Helena Alves. Organs, Tissues & Cells (13) March, 2010: 25-32" 
 
 # Client & Work
 client_and_work:
