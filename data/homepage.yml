@@ -169,6 +169,27 @@ client_and_work:
       alt: "Ztos"
 
   works:
+    - title: "HED calculator"
+      description: "An application to calculate HLA Evolutionary Divergence for Class I and Class II loci."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://txor.shinyapps.io/ched/"
+      image:  
+        x: "img/works/cHED.JPG"
+        _2x: "img/works/cHED.JPG"
+      is_even: false
+  
+    - title: "R package {histoc}"
+      description: "An R package for histocompatibility analysis performed on kidney transplantation in allocation systems."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch package site"
+        URL: "https://txopen.github.io/histoc/index.html"
+      image:  
+        x: "img/works/histoc.JPG"
+        _2x: "img/works/histoc.JPG"
+      is_even: true
   
     - title: "R package {simK}"
       description: "Synthetic data on kidney transplantation can be generated with the R package {simK}. These data is particularly useful to do simulations on KARS."
@@ -186,7 +207,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://balima.shinyapps.io/kars/"
+        URL: "https://txor.shinyapps.io/kars/"
       image:  
         x: "img/works/kars.jpg"
         _2x: "img/works/kars.jpg"
