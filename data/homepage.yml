@@ -26,8 +26,8 @@ showcase:
     - icon: "github"
       URL: "https://github.com/txopen"
 
-    # - icon: "RG"
-    #   URL: "https://twitter.com"
+    - icon: "RG"
+      URL: "https://www.researchgate.net/profile/Bruno-Lima-28"
     # 
     # - icon: "dribbble"
     #   URL: "https://dribbble.com"
@@ -302,12 +302,14 @@ contact:
     btnText: "Send Message"
     btnAction: 'mailto:bioestatisticas@gmail.com'
     
-  # phone:
-  #   title: "Phone Number"
-  #   number: "--"
+  phone:
+    title: "How to cite:"
+    number: 'Bruno A Lima, Teresa S Henriques, Filipe Pinto Reis, Helena Alves. Transplant Open Registry Initiative. Port J Nephrol Hypert 2022; 36(4): 201-206'
+  
   email:
     title: "Email"
     email: '<a href="mailto:bioestatisticas@gmail.com">bioestatisticas@gmail.com</a>'
+  
   address:
     title: "Address"
     address: '<a href="https://bioestatisticas.wixsite.com/bioestatisticas">Oficina de Bioestatistica</a>'
